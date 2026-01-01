@@ -1,7 +1,16 @@
 # Laravel Task Management System
 
-In this repo I developed a Task Management System with Laravel . You can control or contribute to the use of Model, Ajax, Controller.
+In this repo I developed a Task Management System with Laravel 11. You can control or contribute to the use of Model, Ajax, Controller.
+## Demo Video
+[![LARAVEL_11_TASK_MANAGEMENT_SYSTEM](https://img.youtube.com/vi/_pf5jAt-eiw/0.jpg)](https://www.youtube.com/watch?v=_pf5jAt-eiw)
 
+## Screenshots
+
+Laravel 11 Task Management System Screenshot
+![Laravel_Task_Management_System](screenshots/ss_1.png)
+
+Laravel 11 Task Management System Screenshot 2
+![Laravel_Task_Management_System](screenshots/ss_2.png)
 
 
 ## Features
@@ -12,7 +21,6 @@ In this repo I developed a Task Management System with Laravel . You can control
 - Edit Task
 - Delete Task
 - Sorting with Drag and Drop System
-- Priority with Low, Moderate and High
 - Status Update
 - Filter by Status
 
@@ -36,11 +44,11 @@ To install and set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Vinutha1211/Laravel-Task-Management-Example.git
+   git clone https://github.com/mrcandev/Laravel-Task-Management-Example.git
 
 2. Navigate to the project directory:
     ```bash
-    cd Laravel-Task-Management-Example.git
+    cd project_folder
 
 3. Install PHP dependencies:
     ```bash
